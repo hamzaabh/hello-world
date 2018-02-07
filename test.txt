@@ -1,1 +1,17 @@
 Testing commit from Git
+1	Statistics
+2	Datawarehousing
+3	SQL
+4	Teradata
+5	Hadoop
+6	HDFS
+7	Python
+
+1	Data Science
+2	Machine Learning
+3	Big Data
+4	Business Intelligence
+5	Software Engineering
+6	Web Development
+7	Mathematics
+8	Linguistics
